@@ -70,12 +70,14 @@ footer{
   
 }
 
-footer span{
+footer span a{
   margin: 0 21px 40.83px;
   color: #3F3D56;
   font-size: 15px;
   font-weight: 700;
   line-height: 147.682%;
+  font-style: normal;
+  text-decoration:none
 }
 
 #wave {
